@@ -1,3 +1,6 @@
+# Deployed Link
+https://online-currency-convertor1.netlify.app/
+
 # Currency Converter 💱
 
 Welcome to our simple yet sleek Currency Converter app! Whether you're planning your next vacation 🌴 or doing some forex trading 💹, our app has got you covered for all your currency conversion needs.
